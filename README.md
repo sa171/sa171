@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Saurabh, I am a software engineer by profession and I like building interactive applications for fun. 
 - 👀 I’m interested in ...
-     Core Interests: Mahcine learing, Deep learning
-     Curious about: Web development (Nodejs), Containerization and Virtualization (Docker), Cloud computing (AWS)
+     Core Interests: Mahcine learing, Deep learning and curious about: web development (Nodejs), containerization and virtualization (Docker), cloud computing (AWS)
 - 🌱 I’m currently learning ... Nodejs, Docker
 - 💞️ I’m looking to collaborate on ...
      vocab_app: check my repo
